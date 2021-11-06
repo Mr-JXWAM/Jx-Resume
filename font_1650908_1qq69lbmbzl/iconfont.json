@@ -1,0 +1,65 @@
+{
+  "id": "1650908",
+  "name": "resume-2020",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "401254",
+      "name": "windows",
+      "font_class": "windows",
+      "unicode": "e8cf",
+      "unicode_decimal": 59599
+    },
+    {
+      "icon_id": "4448572",
+      "name": "radio-none",
+      "font_class": "radio-none",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "637454",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "866401",
+      "name": "推特_twitter44",
+      "font_class": "tuitetwitter44",
+      "unicode": "e9be",
+      "unicode_decimal": 59838
+    },
+    {
+      "icon_id": "1037687",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "5924492",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "9592756",
+      "name": "简历",
+      "font_class": "jianli",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "11968736",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    }
+  ]
+}
